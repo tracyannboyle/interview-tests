@@ -10,22 +10,30 @@
         <mxCell id="L0BzXBoiAs2ZLCJJE7m8-5" value="Goal: Connect The Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="220" y="20" width="880" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-9" value="Steps" parent="0" />
-        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L0BzXBoiAs2ZLCJJE7m8-9" source="2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="277" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-12" value="Reproduce the following by dragging and connecting steps from the Steps Library" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="330" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0BzXBoiAs2ZLCJJE7m8-13" target="L0BzXBoiAs2ZLCJJE7m8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-13" value="Start" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="190" width="95" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-14" value="End" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="190" width="86" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0BzXBoiAs2ZLCJJE7m8-15" target="L0BzXBoiAs2ZLCJJE7m8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-15" value="Middle" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="606.5" y="190" width="107" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-9" value="Steps" parent="0" />
         <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="L0BzXBoiAs2ZLCJJE7m8-9" vertex="1">
-          <mxGeometry x="300" y="250" width="95" height="54" as="geometry" />
+          <mxGeometry x="50" y="180" width="95" height="54" as="geometry" />
         </mxCell>
         <mxCell id="4" value="End" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="L0BzXBoiAs2ZLCJJE7m8-9" vertex="1">
-          <mxGeometry x="900" y="250" width="86" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="L0BzXBoiAs2ZLCJJE7m8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L0BzXBoiAs2ZLCJJE7m8-9" source="3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="117" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="50" y="270" width="86" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Middle" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="L0BzXBoiAs2ZLCJJE7m8-9" vertex="1">
           <mxGeometry x="50" y="90" width="107" height="54" as="geometry" />
